@@ -1,4 +1,4 @@
-# RENDER Products tiles using react
+# RENDER Product tiles using react
 
 TO GET STARTED READ THE DOCUMENT
 "POC ON PRODUCT LISTING PAGE.docx"
